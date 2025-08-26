@@ -71,7 +71,7 @@ Here are a few technologies I've been working with recently:
   <a href="https://www.linkedin.com/in/sankavi-thayaparan-b257392a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-website.com">
+  <a href="https://my-portfolio-nu-inky-94.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
